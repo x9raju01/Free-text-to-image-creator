@@ -1,0 +1,5 @@
+{
+  "name": "DreamCanvas AI",
+  "description": "A free text-to-image generator powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
